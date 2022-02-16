@@ -1,6 +1,7 @@
-package Method;
+package new1;
+import java.util.Scanner;
 
-public class demoMethod {
+public class matrix {
 
 	public static void main(String[] args) {
 	
